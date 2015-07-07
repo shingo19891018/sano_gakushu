@@ -1,1 +1,1 @@
-# sano_gakushu
+# 佐野_学習Git
